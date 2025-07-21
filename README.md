@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am **Charan Rathore** a dual degree student **MSc. Chemistry + BE Mechanical Engineering** from **BITS Pilani,India**.
 I am highly curious about **Machine Learning, Deep Learning, Large Language Models** and how **AI intersects with Engineering and Scientific Research**
 
-🛠 I’ve previously on a project involving **automated generation of CAD bolt models using Fusion 360 API using Python **.
+🛠 I’ve previously on a project involving **automated generation of CAD bolt models using Fusion 360 API using Python**.
 
 🌱 I’m currently learning **deep learning, Open3D for 3D data processing, AI for scientific research**.
 
