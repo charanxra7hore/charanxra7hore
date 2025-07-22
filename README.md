@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Charan Rathore** a dual degree student **MSc. Chemistry + BE Mechanical Engineering** from **BITS Pilani,India**.
+I am **Charan Rathore** , a dual degree student in **MSc. Chemistry + BE Mechanical Engineering** from **BITS Pilani,India**.
 I am highly curious about **Machine Learning, Deep Learning, Large Language Models** and how **AI intersects with Engineering and Scientific Research**
 
 🛠 I’ve previously on a project involving **automated generation of CAD bolt models using Fusion 360 API using Python**.
@@ -24,6 +24,6 @@ I am highly curious about **Machine Learning, Deep Learning, Large Language Mode
 
 🧑‍🤝‍🧑 I’m looking to collaborate on **research projects at the intersection of ML and scientific workflows**.
 
-📫 How to reach me:(mail at:ra7hore.charan@gmail.com)
+📫 You can reach me out through :(mail at:ra7hore.charan@gmail.com)
 
 
