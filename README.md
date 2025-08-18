@@ -24,6 +24,6 @@ I am highly curious about **Machine Learning, Deep Learning, Large Language Mode
 
 🧑‍🤝‍🧑 I’m looking to collaborate on **research projects at the intersection of ML and scientific workflows**.
 
-📫 You can reach me out through :(mail at:ra7hore.charan@gmail.com)
+📫 *You can reach me out through mail (at:ra7hore.charan@gmail.com)*
 
 
